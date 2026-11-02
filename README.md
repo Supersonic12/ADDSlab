@@ -2,7 +2,7 @@
 
 ## Active Directory Lab Structure
 
-![Structure](/home/jesus/Projects/ADDSlab/images/SomePhoto.drawio.png)
+![Structure](./images/SomePhoto.drawio.png)
 
 ## My Active Directory Deployment Process
 
@@ -15,11 +15,11 @@ Commands that I have ran:
 
 `Install-WindowsFeature -name AD-Domain-Services -IncludeManagementTools`
 
-![](/home/jesus/Projects/ADDSlab/images/Screenshot_20261017_133816.png)
+![](./images/Screenshot_20261017_133816.png)
 
 `Install-ADDSForest -DomainName "corp.khachat.com"`
 
-![](/home/jesus/Projects/ADDSlab/images/Screenshot_20261017_135729.png)
+![](./images/Screenshot_20261017_135729.png)
 
 Created this structure:
 
